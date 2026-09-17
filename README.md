@@ -1,6 +1,6 @@
 # Cab Booking and Driver Performance Analysis Dashboard
 
-![Cab Booking Dashboard](Screenshot%202026-08-31%20214251.png)
+![Cab Booking Dashboard](https://github.com/user-attachments/assets/ebc8d445-e22c-4eaa-96f1-6471c317a28e)
 
 ## Overview
 This project focuses on transforming raw cab booking data into an interactive Power BI dashboard to evaluate driver performance, vehicle metrics, and overall business operations.
